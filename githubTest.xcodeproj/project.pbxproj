@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4EA057DA2969CA78008265A9 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA057D92969CA78008265A9 /* SwiftUIView.swift */; };
+		4EA057DB2969CA78008265A9 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA057D92969CA78008265A9 /* SwiftUIView.swift */; };
+		4EA057DC2969CA78008265A9 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EA057D92969CA78008265A9 /* SwiftUIView.swift */; };
 		4ED135F02967493100058A4E /* githubTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED135EF2967493100058A4E /* githubTestApp.swift */; };
 		4ED135F22967493100058A4E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED135F12967493100058A4E /* ContentView.swift */; };
 		4ED135F42967493200058A4E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4ED135F32967493200058A4E /* Assets.xcassets */; };
@@ -36,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4EA057D92969CA78008265A9 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		4ED135EC2967493100058A4E /* githubTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = githubTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4ED135EF2967493100058A4E /* githubTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githubTestApp.swift; sourceTree = "<group>"; };
 		4ED135F12967493100058A4E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -106,6 +110,7 @@
 				4ED135FD2967493200058A4E /* Info.plist */,
 				4ED135FA2967493200058A4E /* githubTest.xcdatamodeld */,
 				4ED135F52967493200058A4E /* Preview Content */,
+				4EA057D92969CA78008265A9 /* SwiftUIView.swift */,
 			);
 			path = githubTest;
 			sourceTree = "<group>";
@@ -269,6 +274,7 @@
 				4ED135F22967493100058A4E /* ContentView.swift in Sources */,
 				4ED135FC2967493200058A4E /* githubTest.xcdatamodeld in Sources */,
 				4ED135F02967493100058A4E /* githubTestApp.swift in Sources */,
+				4EA057DA2969CA78008265A9 /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,6 +282,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4EA057DB2969CA78008265A9 /* SwiftUIView.swift in Sources */,
 				4ED136072967493200058A4E /* githubTestTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,6 +293,7 @@
 			files = (
 				4ED136112967493200058A4E /* githubTestUITests.swift in Sources */,
 				4ED136132967493200058A4E /* githubTestUITestsLaunchTests.swift in Sources */,
+				4EA057DC2969CA78008265A9 /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
